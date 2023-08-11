@@ -1,0 +1,39 @@
+.awssld__content{
+    background-color: transparent !important;
+}
+.awssld__container{
+    padding-bottom: 30%;
+}
+
+.lastUpdate {
+    color: #999;
+}
+
+.freeShipping{
+    color: forestgreen
+}
+
+.countOfPrices{
+    font-weight: 700;
+    color: #383838;
+    font-size: 14px;
+}
+.productbadge {
+    background: #fdf7cf;
+    font-Weight: bold;
+    color: #4a4a4a;
+    font-size: 0.85em;
+}
+
+.price{
+    font-weight: 700; 
+    font-size: 1.8em;
+}
+.stars {
+    zoom: 0.3 
+}
+
+.h-productname{
+    font-size: 22px;
+    color: #627285
+}
